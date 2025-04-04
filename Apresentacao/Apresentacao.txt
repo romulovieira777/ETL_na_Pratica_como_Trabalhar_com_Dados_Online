@@ -1,0 +1,24 @@
+Apresentação
+
+Bem-vindo!
+
+É um prazer tê-lo como aluno do nosso curso online ETL na Prática: Como Trabalhar com Dados. Estecurso é
+ideal para você que deseja aprender a executar a primeira e mais importante etapa do processo de análise de dados: a
+ETL (Extração, Transformação e Carregamento).
+
+Você irá aprender a extrair dados a partir de diferentes fontes, aplicar diferentes técnicas limpeza, filtragem e
+combinação de dados, e armazenar o conteúdo nos mais diversos formatos.Bom aprendizado
+
+
+Como estudar?
+
+Assista! -> Pratique! -> Material de Apoio
+
+
+Este curso conta com:
+
+Videoaulas sobre os assuntos que você precisa saber neste curso de ETL.
+
+Exercícios para você pôr à prova o que aprendeu.
+
+Material de apoio para você testar os exemplos das videoaulas.
