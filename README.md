@@ -10,5 +10,6 @@
 - [Aula 04 - Extraindo Dados](https://github.com/romulovieira777/ETL_na_Pratica_como_Trabalhar_com_Dados_Online/tree/main/Aula_04_Extraindo_Dados)
 - [Aula 05 - Transformando Dados](https://github.com/romulovieira777/ETL_na_Pratica_como_Trabalhar_com_Dados_Online/tree/main/Aula_05_Transformando_Dados)
 - [Aula 06 - Carregando Dados](https://github.com/romulovieira777/ETL_na_Pratica_como_Trabalhar_com_Dados_Online/tree/main/Aula_06_Carregando_Dados)
+- [Aula 07 - Projeto de Análise de Dados]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/etl-na-pratica-como-trabalhar-com-dados-online)
